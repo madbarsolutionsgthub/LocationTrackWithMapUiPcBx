@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Retrofit Get Dynamic Url PB5</string>
+    <string name="weather_api">380199723cebdb85ef2e16cc30cee5b6</string>
+    <string name="geocode_api">AIzaSyDebdNwCqHjBmjrUPbjniBK-fH1b9t-Ghk</string>
+    <string name="map_api">AIzaSyDYV9ZsgASJzQ1LrVTvoTvlpt0Z2el02EE</string>
+    <string name="places_api">AIzaSyDMKsZxFkVR-8F1Wh-a0gcL2_meESoRhTE</string>
+    <string name="nearby_places_api">AIzaSyDhMzZAPct6rtzR_oWb1mwCiyj3dnY0ShQ</string>
+</resources>
